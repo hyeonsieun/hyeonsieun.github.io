@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+
+# Unpublished manuscripts stay in the private reference directory.
+federated-vector-retrieval.pdf
+shepherding_submission.pdf
